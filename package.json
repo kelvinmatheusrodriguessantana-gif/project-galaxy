@@ -1,0 +1,1 @@
+{\n  "name": "project-galaxy",\n  "version": "1.0.0",\n  "main": "index.js",\n  "dependencies": {\n    "electron": ">=14.0.0",\n    "three": ">=0.130.0"\n  },\n  "scripts": {\n    "start": "electron ."\n  }\n}
